@@ -34,7 +34,7 @@ class Description extends Component {
                             </p>
                         </div>
                         <div className="card-action">
-                            <a href="#">Github</a>
+                            <a href="https://github.com/kienhg96/fcc-markdown">Github</a>
                         </div>
                     </div>
                 </div>
